@@ -5,3 +5,9 @@
 5.git commit -m "some init msg"
 
 for more info: https://stackoverflow.com/questions/11656761/git-please-tell-me-who-you-are-error
+
+
+See this: https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed
+
+under comment from Xiao and Thiago.
+Should fix the problem to push/pull from badger remotely.
